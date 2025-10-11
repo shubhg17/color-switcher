@@ -1,9 +1,9 @@
-#🎨 Color Switcher (HTML, CSS & JS)
+# 🎨 Color Switcher (HTML, CSS & JS)
 
 A simple and interactive web project that allows users to **change the background color** of a webpage by clicking on colored buttons. Perfect for beginners learning DOM manipulation in JavaScript.
 
 ---
-##🚀 Features
+## 🚀 Features
 
 -Clickable buttons: Red, Green, Blue, Yellow to change the page background.
 
@@ -14,7 +14,7 @@ A simple and interactive web project that allows users to **change the backgroun
 -Easily extensible: add more colors by adding new buttons.
 
 ---
-##📁 File Structure
+## 📁 File Structure
 color-switcher/
 ├── index.html
 ├── style.css
@@ -22,7 +22,7 @@ color-switcher/
 └── README.md
 
 ---
-##🛠 Technologies Used
+## 🛠 Technologies Used
 
 -**HTML5** – Structure of the page
 
@@ -31,7 +31,7 @@ color-switcher/
 -**JavaScript** – Click event handling
 
 ---
-##🔧 How to Run
+## 🔧 How to Run
 
 1.Clone the repository:
 ```bash
@@ -50,11 +50,12 @@ cd color-switcher
 3.Click any color button to change the background color.
 
 --
-##📌 Notes
+## 📌 Notes
 
 -This project is a hands-on exercise for learning DOM manipulation.
 
 -Can be extended by adding more colors or custom animations for button clicks.
+
 ---
-##👨‍💻 Author
+## 👨‍💻 Author
 Made by Shubham Ghai

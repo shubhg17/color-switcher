@@ -5,13 +5,13 @@ A simple and interactive web project that allows users to **change the backgroun
 ---
 ## 🚀 Features
 
--Clickable buttons: Red, Green, Blue, Yellow to change the page background.
+- Clickable buttons: Red, Green, Blue, Yellow to change the page background.
 
--Built with HTML, CSS, and JavaScript.
+- Built with HTML, CSS, and JavaScript.
 
--Lightweight and beginner-friendly.
+- Lightweight and beginner-friendly.
 
--Easily extensible: add more colors by adding new buttons.
+- Easily extensible: add more colors by adding new buttons.
 
 ---
 ## 📁 File Structure
@@ -24,11 +24,11 @@ color-switcher/
 ---
 ## 🛠 Technologies Used
 
--**HTML5** – Structure of the page
+- **HTML5** – Structure of the page
 
--**CSS3** – Styling and layout
+- **CSS3** – Styling and layout
 
--**JavaScript** – Click event handling
+- **JavaScript** – Click event handling
 
 ---
 ## 🔧 How to Run
@@ -49,12 +49,12 @@ cd color-switcher
 
 3.Click any color button to change the background color.
 
---
+---
 ## 📌 Notes
 
--This project is a hands-on exercise for learning DOM manipulation.
+- This project is a hands-on exercise for learning DOM manipulation.
 
--Can be extended by adding more colors or custom animations for button clicks.
+- Can be extended by adding more colors or custom animations for button clicks.
 
 ---
 ## 👨‍💻 Author

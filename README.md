@@ -1,61 +1,95 @@
-# 🎨 Color Switcher (HTML, CSS & JS)
 
-A simple and interactive web project that allows users to **change the background color** of a webpage by clicking on colored buttons. Perfect for beginners learning DOM manipulation in JavaScript.
+# 💱 Currency Converter (React + Vite)
+
+A responsive and interactive web application that allows users to convert currencies in real-time using live exchange rates. Built with React, Vite, and custom hooks for API integration.
 
 ---
+
 ## 🚀 Features
 
-- Clickable buttons: Red, Green, Blue, Yellow to change the page background.
+- Convert currencies between multiple countries.
 
-- Built with HTML, CSS, and JavaScript.
+- Real-time currency exchange rates fetched from an API.
 
-- Lightweight and beginner-friendly.
+- Built with React and Vite for fast performance.
 
-- Easily extensible: add more colors by adding new buttons.
+- Uses custom hooks to manage API calls and state efficiently.
+
+- User-friendly and responsive design for desktop and mobile.
 
 ---
+
 ## 📁 File Structure
-color-switcher/
-├── index.html
-├── style.css
-├── script.js
+currency-converter/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── components/
+│   │   └── CurrencyInput.jsx
+│   ├── hooks/
+│   │   └── useCurrencyInfo.js
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── style.css
+├── package.json
+├── vite.config.js
 └── README.md
 
 ---
+
 ## 🛠 Technologies Used
 
-- **HTML5** – Structure of the page
+React – Frontend library for building UI components
 
-- **CSS3** – Styling and layout
+Vite – Fast development and build tool
 
-- **JavaScript** – Click event handling
+JavaScript (ES6+) – Logic and API integration
+
+CSS3 – Styling and layout
+
+Custom Hooks – Reusable logic for API calls and state management
 
 ---
+
 ## 🔧 How to Run
 
-1.Clone the repository:
-```bash
+- Clone the repository:
 
-git clone https://github.com/shubhg17/color-switcher.git
+```
+git clone https://github.com/shubhg17/currency-converter.git
 ```
 
-
-2.Navigate into the project folder:
-```bash
-cd color-switcher
+- Navigate into the project folder:
+```
+cd currency-converter
 ```
 
-3.Open **index.html** in a browser.
+- Install dependencies:
+```
+npm install
+```
 
-3.Click any color button to change the background color.
+- Start the development server:
+```
+npm run dev
+```
+
+- Open the given localhost URL in your browser.
+
+- Enter amounts and select currencies to see real-time conversion.
 
 ---
+
 ## 📌 Notes
 
-- This project is a hands-on exercise for learning DOM manipulation.
+Ensure you have a working internet connection for fetching live currency rates.
 
-- Can be extended by adding more colors or custom animations for button clicks.
+The project uses custom hooks (useCurrencyInfo) to fetch and manage API data.
+
+Can be extended to include features like historical data, charts, or multiple conversions.
 
 ---
+
 ## 👨‍💻 Author
+
 Made by Shubham Ghai
